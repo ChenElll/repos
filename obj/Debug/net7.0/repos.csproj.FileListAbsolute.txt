@@ -1,0 +1,15 @@
+C:\Users\chen1\source\repos\bin\Debug\net7.0\repos.exe
+C:\Users\chen1\source\repos\bin\Debug\net7.0\repos.deps.json
+C:\Users\chen1\source\repos\bin\Debug\net7.0\repos.runtimeconfig.json
+C:\Users\chen1\source\repos\bin\Debug\net7.0\repos.dll
+C:\Users\chen1\source\repos\bin\Debug\net7.0\repos.pdb
+C:\Users\chen1\source\repos\obj\Debug\net7.0\repos.csproj.AssemblyReference.cache
+C:\Users\chen1\source\repos\obj\Debug\net7.0\repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chen1\source\repos\obj\Debug\net7.0\repos.AssemblyInfoInputs.cache
+C:\Users\chen1\source\repos\obj\Debug\net7.0\repos.AssemblyInfo.cs
+C:\Users\chen1\source\repos\obj\Debug\net7.0\repos.csproj.CoreCompileInputs.cache
+C:\Users\chen1\source\repos\obj\Debug\net7.0\repos.dll
+C:\Users\chen1\source\repos\obj\Debug\net7.0\refint\repos.dll
+C:\Users\chen1\source\repos\obj\Debug\net7.0\repos.pdb
+C:\Users\chen1\source\repos\obj\Debug\net7.0\repos.genruntimeconfig.cache
+C:\Users\chen1\source\repos\obj\Debug\net7.0\ref\repos.dll
